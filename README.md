@@ -4,7 +4,9 @@ Required libraries:
 torch torchvision numpy scikit-image dominate pillow
 
 Model names:
+
 DOE Removal remove_8
+
 Spectral Classification pix_3
 
 The image pre-processing script is im_preprocess.py. This is a marimo notebook, and probably won't work with your pycharm, but if you want to pre-process your images for feeding into the model you can look into the code to see how it's done. I'll also summarize here:
